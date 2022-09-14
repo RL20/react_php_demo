@@ -2,8 +2,8 @@
 
 ## basic connection :
 
-1.create react app
-2.download jquery package
-3.follow guid of iammasoodalam
+1. create react app
+2. download jquery package
+3. follow guid of iammasoodalam
 
 Credit to **[iammasoodalam](https://www.geeksforgeeks.org/how-to-connect-reactjs-as-a-front-end-with-php-as-a-back-end/)**
